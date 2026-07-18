@@ -37,4 +37,4 @@ This policy may be updated if Waves’ features or data practices change. Update
 
 ## Contact
 
-For privacy questions, contact [wavesappsupport@gmail.com](mailto:wavesappsupport@gmail.com).
+For app support, subscription questions, feedback, or privacy questions, contact [wavesappsupport@gmail.com](mailto:wavesappsupport@gmail.com).
